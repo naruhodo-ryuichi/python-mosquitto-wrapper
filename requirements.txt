@@ -1,0 +1,2 @@
+#Python >= 2.6
+mosquitto >= 1.2.3
